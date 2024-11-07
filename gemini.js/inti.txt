@@ -1,0 +1,2 @@
+npx create-next-app@latest ollama-chatbot
+cd ollama-chatbot
